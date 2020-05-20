@@ -1,2 +1,2 @@
 # DL-Paper-Implementations
-A shot at implementing the State of The Art Deep Learning Papers with some modifications.
+A shot at implementing the State Of The Art (SOTA) deep learning papers with some modifications.
